@@ -1,0 +1,183 @@
+{
+  "continents": [
+    {
+      "id": "africa",
+      "name": "África",
+      "description": "África é um dos seis continentes do mundo, sendo o terceiro maior em extensão territorial. O território estende-se por mais de 30 milhões de km², ocupando, aproximadamente, 20% da área continental da Terra. No continente vive mais de um bilhão de habitantes, fazendo dele o segundo mais populoso entre os demais.",
+      "brief": "Terras lindas, natureza exuberante e fauna incomparável",
+      "countries": 54,
+      "languages": 2092,
+      "amountTopCities": 24,
+      "keyword": "southAfrica,sightseeing",
+      "topCities": [
+        { "name": "Cairo", "country": "Egito", "codeFlag": "818" },
+        { "name": "Hurghada", "country": "Egito", "codeFlag": "818" },
+        { "name": "Marrakech", "country": "Marrocos", "codeFlag": "504" },
+        {
+          "name": "Johannesburg",
+          "country": "África do Sul",
+          "codeFlag": "710"
+        }
+      ]
+    },
+    {
+      "id": "america",
+      "name": "América",
+      "description": "América é o maior continente em extensão norte–sul localizado no Hemisfério Ocidental e compreende uma área total de 42.189.120 km2. O continente é habitado por cerca de 902.892.047 pessoas, e nele são faladas diversas línguas, como espanhol, inglês, português, francês, neerlandês e línguas nativas. O continente é constituído por 35 países e 18 territórios independentes",
+      "brief": "Fascinantes cidades históricas e gigantes cidades cosmopolitas",
+      "countries": 36,
+      "languages": 4,
+      "amountTopCities": 13,
+      "keyword": "unitedStates, sightseeing",
+      "topCities": [
+        { "name": "Buenos-Aires", "country": "Argentina", "codeFlag": "032" },
+        { "name": "Rio-de-Janeiro", "country": "Brasil", "codeFlag": "076" },
+        { "name": "Toronto", "country": "Canadá", "codeFlag": "124" },
+        { "name": "Vancouver", "country": "Canadá", "codeFlag": "124" },
+        { "name": "Cancun", "country": "México", "codeFlag": "484" },
+        { "name": "Lima", "country": "Peru", "codeFlag": "604" },
+        { "name": "Nova-York", "country": "Estado Unidos", "codeFlag": "840" },
+        { "name": "Miami", "country": "Estado Unidos", "codeFlag": "840" },
+        {
+          "name": "Los-Angeles",
+          "country": "Estado Unidos",
+          "codeFlag": "840"
+        },
+        { "name": "Las-Vegas", "country": "Estado Unidos", "codeFlag": "840" },
+        { "name": "Orlando", "country": "Estado Unidos", "codeFlag": "840" },
+        {
+          "name": "San-Francisco",
+          "country": "Estado Unidos",
+          "codeFlag": "840"
+        },
+        { "name": "Honolulu", "country": "Estado Unidos", "codeFlag": "840" }
+      ]
+    },
+    {
+      "id": "asia",
+      "name": "Ásia",
+      "description": "A Ásia é um continente vasto, cuja área corresponde a cerca de um terço de todas as terras emersas do mundo. Além da extensão territorial, a população total alcança a marca impressionante de mais de 4 bilhões, o que é quase 50% de todos os habitantes do globo.",
+      "brief": "Praias e mares de beleza ímpar,templos milenares",
+      "countries": 49,
+      "languages": 5,
+      "amountTopCities": 45,
+      "keyword": "china, sightseeing",
+      "topCities": [
+        { "name": "Shenzhen", "country": "China", "codeFlag": "156" },
+        { "name": "Guangzhou", "country": "China", "codeFlag": "156" },
+        { "name": "Shanghai", "country": "China", "codeFlag": "156" },
+        { "name": "Beijing", "country": "China", "codeFlag": "156" },
+        { "name": "Zhuhai", "country": "China", "codeFlag": "156" },
+        { "name": "Guilin", "country": "China", "codeFlag": "156" },
+        { "name": "Hong-Kong", "country": "China", "codeFlag": "156" },
+        { "name": "Macau", "country": "China", "codeFlag": "156" },
+        { "name": "Deli", "country": "Índia", "codeFlag": "356" },
+        { "name": "Mumbai", "country": "Índia", "codeFlag": "356" },
+        { "name": "Agra", "country": "Índia", "codeFlag": "356" },
+        { "name": "Chennai", "country": "Índia", "codeFlag": "356" },
+        { "name": "Jaipur", "country": "Índia", "codeFlag": "356" },
+        { "name": "Calcutá", "country": "Índia", "codeFlag": "356" },
+        { "name": "Bangalore", "country": "Índia", "codeFlag": "356" },
+        { "name": "Denpasar", "country": "Indonésia", "codeFlag": "360" },
+        { "name": "Jacarta", "country": "Indonésia", "codeFlag": "360" },
+        { "name": "Batam", "country": "Indonésia", "codeFlag": "360" },
+        { "name": "Jerusalém", "country": "Israel", "codeFlag": "376" },
+        { "name": "Telavive", "country": "Israel", "codeFlag": "376" },
+        { "name": "Tóquio", "country": "Japão", "codeFlag": "392" },
+        { "name": "Osaka", "country": "Japão", "codeFlag": "392" },
+        { "name": "Quioto", "country": "Japão", "codeFlag": "392" },
+        { "name": "Chiba", "country": "Japão", "codeFlag": "392" },
+        { "name": "Fukuoka", "country": "Japão", "codeFlag": "392" },
+        { "name": "Kuala-Lumpur", "country": "Malásia", "codeFlag": "458" },
+        { "name": "Johor-Bahru", "country": "Malásia", "codeFlag": "458" },
+        { "name": "Ilha-de-Penang", "country": "Malásia", "codeFlag": "458" },
+        { "name": "Cebu", "country": "Filipinas", "codeFlag": "608" },
+        { "name": "Meca", "country": "Arábia Saudita", "codeFlag": "682" },
+        { "name": "Medina", "country": "Arábia Saudita", "codeFlag": "682" },
+        { "name": "Riade", "country": "Arábia Saudita", "codeFlag": "682" },
+        { "name": "Damã", "country": "Arábia Saudita", "codeFlag": "682" },
+        { "name": "Singapura", "country": "Singapura", "codeFlag": "702" },
+        { "name": "Antália", "country": "Turquia", "codeFlag": "792" },
+        { "name": "Mugla", "country": "Turquia", "codeFlag": "792" },
+        { "name": "Taipé", "country": "Taiwan", "codeFlag": "158" },
+        { "name": "Bangkok", "country": "Tailândia", "codeFlag": "764" },
+        { "name": "Phuket", "country": "Tailândia", "codeFlag": "764" },
+        { "name": "Pattaya", "country": "Tailândia", "codeFlag": "764" },
+        { "name": "Chiang-Mai", "country": "Tailândia", "codeFlag": "764" },
+        { "name": "Krabi", "country": "Tailândia", "codeFlag": "764" },
+        { "name": "Seoul", "country": "Coréia do Sul", "codeFlag": "410" },
+        { "name": "Jeju", "country": "Coréia do Sul", "codeFlag": "410" },
+        {
+          "name": "Dubai",
+          "country": "Emirados Árabes Unidos",
+          "codeFlag": "764"
+        },
+        {
+          "name": "Abu-Dhabi",
+          "country": "Emirados Árabes Unidos",
+          "codeFlag": "764"
+        },
+        { "name": "Ho-Chi-Minh", "country": "Vietnã", "codeFlag": "704" },
+        { "name": "Ha-Long", "country": "Vietnã", "codeFlag": "704" },
+        { "name": "Ha-Noi", "country": "Vietnã", "codeFlag": "704" },
+        { "name": "Da-Nang", "country": "Vietnã", "codeFlag": "704" }
+      ]
+    },
+    {
+      "id": "europa",
+      "name": "Europa",
+      "description": "A Europa é o segundo menor continente em área territorial. Apesar de ser tão compacto, o Velho Continente agrega diversas maravilhas naturais. Do sul quente Mediterrâneo às gélidas terras nórdicas, a Europa tem muito a oferecer aos viajantes.",
+      "brief": "Convivência natural entre antigo e o novo.",
+      "countries": 50,
+      "languages": 60,
+      "amountTopCities": 26,
+      "keyword": "london,sightseeing",
+      "topCities": [
+        { "name": "Viena", "country": "Áustria", "codeFlag": "040" },
+        { "name": "Bruxelas", "country": "Bélgica", "codeFlag": "056" },
+        { "name": "Copenhage", "country": "Dinamarca", "codeFlag": "208" },
+        { "name": "Paris", "country": "França", "codeFlag": "250" },
+        { "name": "Nice", "country": "França", "codeFlag": "250" },
+        { "name": "Berlim", "country": "Alemanhã", "codeFlag": "276" },
+        { "name": "Frankfurt", "country": "Alemanhã", "codeFlag": "276" },
+        { "name": "Munique", "country": "Alemanhã", "codeFlag": "276" },
+        { "name": "Atenas", "country": "Grécia", "codeFlag": "300" },
+        { "name": "Iráklio", "country": "Grécia", "codeFlag": "300" },
+        { "name": "Rhodes", "country": "Grécia", "codeFlag": "300" },
+        { "name": "Budapeste", "country": "Húngria", "codeFlag": "348" },
+        { "name": "Roma", "country": "Itália", "codeFlag": "380" },
+        { "name": "Milão", "country": "Itália", "codeFlag": "380" },
+        { "name": "Florença", "country": "Itália", "codeFlag": "380" },
+        { "name": "Veneza", "country": "Itália", "codeFlag": "380" },
+        { "name": "Dublin", "country": "Irlanda", "codeFlag": "372" },
+        { "name": "Amsterdã", "country": "Holanda", "codeFlag": "528" },
+        { "name": "Cracóvia", "country": "Polônia", "codeFlag": "616" },
+        { "name": "Varsóvia", "country": "Polônia", "codeFlag": "616" },
+        { "name": "Lisboa", "country": "Portugal", "codeFlag": "620" },
+        { "name": "Porto", "country": "Portugal", "codeFlag": "620" },
+        { "name": "Barcelona", "country": "Espanha", "codeFlag": "724" },
+        { "name": "Madri", "country": "Espanha", "codeFlag": "724" },
+        { "name": "Praga", "country": "República Tcheca", "codeFlag": "203" },
+        { "name": "Estocolmo", "country": "Suécia", "codeFlag": "752" },
+        { "name": "Moscou", "country": "Rússia", "codeFlag": "643" },
+        { "name": "São-Petesburgo", "country": "Rússia", "codeFlag": "643" },
+        { "name": "Londres", "country": "Reino Unido", "codeFlag": "826" }
+      ]
+    },
+    {
+      "id": "oceania",
+      "name": "Oceania",
+      "description": "A Oceania é formada por 14 países, sendo o Austrália o maior em extensão territorial e Nauru o menor país da região. E é dividida em várias regiões: a parte do continente da Austrália e da Nova Zelândia é chamada de Australásia; já as ilhas ao sul como Bora Bora e o Taiti formam a Polinésia. Há ainda a Micronésia, formadas pelas Ilhas Marianas, Ilhas Carolinas, entre outras; e a Melanésia, onde está Fiji, Nova Caledônia, e outras ilhas. Confuso? Espere até ler sobre o clima na região. Na Oceania, há grandes variações climáticas com regiões tropicais, deserto e até picos nevados. Banhadas pelos oceanos Pacífico e Índico, as ilhas da Oceania eram originalmente habitadas por aborígenes, papuas e outras tribos. Embora a região tenha sido colônia britânica por muitos anos, outros países também chegaram a colonizar algumas ilhas.",
+      "brief": "Tradições de civilizações aborígenes e cultura europeia",
+      "countries": 14,
+      "languages": 17,
+      "amountTopCities": 3,
+      "keyword": "australia, sightseeing",
+      "topCities": [
+        { "name": "Auckland", "country": "Nova Zelândia", "codeFlag": "554" },
+        { "name": "Sydney", "country": "Austrália", "codeFlag": "036" },
+        { "name": "Melbourne", "country": "Austrália", "codeFlag": "036" }
+      ]
+    }
+  ]
+}
