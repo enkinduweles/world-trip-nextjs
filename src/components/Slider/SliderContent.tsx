@@ -1,6 +1,5 @@
 import { Flex, VStack, Text, Box } from '@chakra-ui/react';
 import Link from 'next/link';
-import { SwiperSlide } from 'swiper/react';
 
 type TopCitiesData = {
   name: string;

@@ -1,32 +1,20 @@
 import type { GetStaticProps, NextPage } from 'next';
+import { AxiosResponse } from 'axios';
 import axios from '../services/api';
 
 import {
   Box,
-  Center,
   Divider,
   Flex,
   Heading,
-  SimpleGrid,
-  Spacer,
   Stack,
   Text,
   Image,
-  List,
-  ListItem,
-  ListIcon,
-  Icon,
-  HStack,
-  VStack,
-  Grid,
-  GridItem,
   useBreakpointValue,
 } from '@chakra-ui/react';
 import { Header } from '../components/Header';
 import { Banner } from '../components/Banner';
 import { Slider } from '../components/Slider';
-import { StarIcon } from '@chakra-ui/icons';
-import { AxiosResponse } from 'axios';
 import { ActivityOptions } from '../components/ActivityOptions';
 
 type TopCitiesData = {

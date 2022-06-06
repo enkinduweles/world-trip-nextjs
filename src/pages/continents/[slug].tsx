@@ -1,11 +1,12 @@
-import { Box, Center, Flex, Heading, Stack, Text } from '@chakra-ui/react';
-import axios from '../../services/api';
-import { AxiosResponse } from 'axios';
 import { NextPage, GetStaticProps, GetStaticPaths } from 'next';
+import { AxiosResponse } from 'axios';
+import axios from '../../services/api';
+import { ParsedUrlQuery } from 'querystring';
+
+import { Box, Flex, Heading, Stack, Text } from '@chakra-ui/react';
 import { Banner } from '../../components/Banner';
 import { Header } from '../../components/Header';
 import { List } from '../../components/List';
-import { ParsedUrlQuery } from 'querystring';
 
 type TopCitiesData = {
   name: string;

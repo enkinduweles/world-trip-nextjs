@@ -1,14 +1,6 @@
-import {
-  Box,
-  Stack,
-  Heading,
-  Text,
-  Image,
-  useBreakpointValue,
-  Flex,
-  BoxProps,
-} from '@chakra-ui/react';
 import { ReactNode } from 'react';
+
+import { Box, BoxProps } from '@chakra-ui/react';
 
 interface BannerProps extends BoxProps {
   backgroundUrl?: string;

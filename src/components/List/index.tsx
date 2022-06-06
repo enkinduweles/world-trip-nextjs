@@ -1,4 +1,4 @@
-import { Box, Stack, SimpleGrid } from '@chakra-ui/react';
+import { SimpleGrid } from '@chakra-ui/react';
 import { Card } from './Card';
 
 type TopCitiesData = {

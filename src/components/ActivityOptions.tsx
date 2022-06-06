@@ -1,6 +1,5 @@
 import { StarIcon } from '@chakra-ui/icons';
 import {
-  Box,
   Flex,
   Grid,
   GridItem,
@@ -68,7 +67,6 @@ export function ActivityOptions() {
     );
   }
 
-  // dividir o return em Grid para layout mobile e Flex para layout Desktop
   return (
     <Grid maxW='275px' mx='auto' templateColumns='repeat(2, 1fr)' rowGap={6}>
       <GridItem>

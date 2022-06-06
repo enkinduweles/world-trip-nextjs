@@ -1,6 +1,6 @@
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation, Pagination } from 'swiper';
-import { Box, Flex, Text, VStack } from '@chakra-ui/react';
+import { Box } from '@chakra-ui/react';
 import { SliderContent } from './SliderContent';
 
 type TopCitiesData = {

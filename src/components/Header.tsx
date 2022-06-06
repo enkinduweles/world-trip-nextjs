@@ -1,7 +1,8 @@
-import { ChevronLeftIcon } from '@chakra-ui/icons';
-import { Flex, Image } from '@chakra-ui/react';
-import Link from 'next/link';
 import { useRouter } from 'next/router';
+
+import Link from 'next/link';
+import { Flex, Image } from '@chakra-ui/react';
+import { ChevronLeftIcon } from '@chakra-ui/icons';
 
 interface HeaderProps {
   enableNav?: boolean;
